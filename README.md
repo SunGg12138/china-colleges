@@ -1,11 +1,11 @@
-# china colleges 中国大学信息库
+# china colleges 中国大学基础信息库
 
 ## 字段介绍
 
 ```javascript
 {
   "name": "北京大学",                     // 院校名称
-  "logo": "/images/北京大学.jpg",         // 院校logo，images文件夹下
+  "logo": "/logo/北京大学.jpg",         // 院校logo，logo文件夹下
   "province": "北京",                    // 院校所在省份
   "is_985": true,                       // 是否是985院校
   "is_211": true,                       // 是否是211院校
