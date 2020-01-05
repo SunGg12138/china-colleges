@@ -1,0 +1,10 @@
+{
+  "name": "广西大学",
+  "logo": "/images/广西大学.jpg",
+  "province": "广西",
+  "is_985": false,
+  "is_211": true,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "综合"
+}

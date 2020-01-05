@@ -1,0 +1,10 @@
+{
+  "name": "南宁学院",
+  "logo": "/images/南宁学院.jpg",
+  "province": "广西",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "工科"
+}

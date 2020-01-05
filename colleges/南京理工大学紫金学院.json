@@ -1,0 +1,10 @@
+{
+  "name": "南京理工大学紫金学院",
+  "logo": "/images/南京理工大学紫金学院.jpg",
+  "province": "江苏",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "工科"
+}

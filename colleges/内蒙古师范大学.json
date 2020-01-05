@@ -1,0 +1,10 @@
+{
+  "name": "内蒙古师范大学",
+  "logo": "/images/内蒙古师范大学.jpg",
+  "province": "内蒙古",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "师范"
+}

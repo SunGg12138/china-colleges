@@ -1,0 +1,10 @@
+{
+  "name": "武汉华夏理工学院",
+  "logo": "/images/武汉华夏理工学院.jpg",
+  "province": "湖北",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "工科"
+}

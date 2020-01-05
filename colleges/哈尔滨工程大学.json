@@ -1,0 +1,10 @@
+{
+  "name": "哈尔滨工程大学",
+  "logo": "/images/哈尔滨工程大学.jpg",
+  "province": "黑龙江",
+  "is_985": false,
+  "is_211": true,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "工科"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "中国矿业大学",
+  "logo": "/images/中国矿业大学.jpg",
+  "province": "江苏",
+  "is_985": false,
+  "is_211": true,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "工科"
+}

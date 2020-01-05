@@ -1,0 +1,10 @@
+{
+  "name": "四川农业大学",
+  "logo": "/images/四川农业大学.jpg",
+  "province": "四川",
+  "is_985": false,
+  "is_211": true,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "农业"
+}

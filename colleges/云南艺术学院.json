@@ -1,0 +1,10 @@
+{
+  "name": "云南艺术学院",
+  "logo": "/images/云南艺术学院.jpeg",
+  "province": "云南",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "艺术"
+}

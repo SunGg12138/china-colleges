@@ -1,0 +1,10 @@
+{
+  "name": "燕京理工学院",
+  "logo": "/images/燕京理工学院.jpg",
+  "province": "河北",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "综合"
+}

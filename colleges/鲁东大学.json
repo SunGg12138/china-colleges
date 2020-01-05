@@ -1,0 +1,10 @@
+{
+  "name": "鲁东大学",
+  "logo": "/images/鲁东大学.jpg",
+  "province": "山东",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "综合"
+}

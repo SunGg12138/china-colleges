@@ -1,0 +1,10 @@
+{
+  "name": "上海视觉艺术学院",
+  "logo": "/images/上海视觉艺术学院.jpg",
+  "province": "上海",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "艺术"
+}

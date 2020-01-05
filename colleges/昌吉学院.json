@@ -1,0 +1,10 @@
+{
+  "name": "昌吉学院",
+  "logo": "/images/昌吉学院.jpg",
+  "province": "新疆",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "师范"
+}

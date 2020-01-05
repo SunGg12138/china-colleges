@@ -1,0 +1,10 @@
+{
+  "name": "上海中医药大学",
+  "logo": "/images/上海中医药大学.jpg",
+  "province": "上海",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "医药"
+}

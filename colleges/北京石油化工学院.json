@@ -1,0 +1,10 @@
+{
+  "name": "北京石油化工学院",
+  "logo": "/images/北京石油化工学院.jpg",
+  "province": "北京",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "工科"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "西藏民族大学",
+  "logo": "/images/西藏民族大学.jpg",
+  "province": "西藏",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "民族"
+}

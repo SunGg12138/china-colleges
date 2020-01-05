@@ -1,0 +1,10 @@
+{
+  "name": "江苏海洋大学",
+  "logo": "/images/江苏海洋大学.jpg",
+  "province": "江苏",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "工科"
+}

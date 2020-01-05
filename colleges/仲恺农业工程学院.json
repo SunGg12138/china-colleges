@@ -1,0 +1,10 @@
+{
+  "name": "仲恺农业工程学院",
+  "logo": "/images/仲恺农业工程学院.jpg",
+  "province": "广东",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "农业"
+}

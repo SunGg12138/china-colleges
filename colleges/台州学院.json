@@ -1,0 +1,10 @@
+{
+  "name": "台州学院",
+  "logo": "/images/台州学院.jpg",
+  "province": "浙江",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "综合"
+}

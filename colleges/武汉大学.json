@@ -1,0 +1,10 @@
+{
+  "name": "武汉大学",
+  "logo": "/images/武汉大学.jpg",
+  "province": "湖北",
+  "is_985": true,
+  "is_211": true,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "综合"
+}

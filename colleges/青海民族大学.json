@@ -1,0 +1,10 @@
+{
+  "name": "青海民族大学",
+  "logo": "/images/青海民族大学.jpg",
+  "province": "青海",
+  "is_985": false,
+  "is_211": false,
+  "is_syl": false,
+  "is_bk": true,
+  "type": "民族"
+}

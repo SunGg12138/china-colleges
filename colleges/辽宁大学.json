@@ -1,0 +1,10 @@
+{
+  "name": "辽宁大学",
+  "logo": "/images/辽宁大学.jpg",
+  "province": "辽宁",
+  "is_985": false,
+  "is_211": true,
+  "is_syl": true,
+  "is_bk": true,
+  "type": "综合"
+}
